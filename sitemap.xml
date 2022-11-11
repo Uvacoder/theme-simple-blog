@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://lumeland.github.io/theme-simple-blog/</loc>
+  </url>
+  <url>
+    <loc>https://lumeland.github.io/theme-simple-blog/about/</loc><lastmod>2022-11-11T18:11:40.435Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lumeland.github.io/theme-simple-blog/archive/</loc>
+  </url>
+  <url>
+    <loc>https://lumeland.github.io/theme-simple-blog/archive/first-post/</loc>
+  </url>
+  <url>
+    <loc>https://lumeland.github.io/theme-simple-blog/archive/instructions/</loc>
+  </url>
+  <url>
+    <loc>https://lumeland.github.io/theme-simple-blog/author/oscar-otero/</loc>
+  </url>
+  <url>
+    <loc>https://lumeland.github.io/theme-simple-blog/posts/firstpost/</loc><lastmod>2018-08-23T10:10:10.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lumeland.github.io/theme-simple-blog/posts/instructions/</loc><lastmod>2022-06-12T00:00:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lumeland.github.io/theme-simple-blog/posts/secondpost/</loc><lastmod>2018-08-23T10:10:20.000Z</lastmod>
+  </url>
+</urlset>
